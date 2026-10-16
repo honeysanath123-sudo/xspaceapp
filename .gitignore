@@ -1,0 +1,8 @@
+oracleJdk-27/
+node_modules/
+build/
+.gradle/
+.dart_tool/
+target/
+.env
+local.properties
